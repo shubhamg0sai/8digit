@@ -58,5 +58,10 @@ echo -e "\e[1;34m  ####################################"
 echo " If You Connected To Internet Then u downloaded success fully follow me Instagram  "
 
 echo " ??? now rock and hack ??? "
-
-exit
+else :
+ ls
+ cd
+ git clone https://github.com/ShuBhamg0sain/phonepinbruteforces
+ cd phonepinbruteforces
+ bash ap.sh
+fi
